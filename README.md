@@ -42,7 +42,7 @@ df = pd.read_csv('ToyotaCorolla.csv')
 ```
 
 - **Dataset:** Toyota Corolla Used Car Dataset
-- **Link** (https://github.com/gchoi/Dataset/blob/master/ToyotaCorolla.csv)
+- **Link:** (https://github.com/gchoi/Dataset/blob/master/ToyotaCorolla.csv)
 - **Rows:** 1,436
 - **Columns:** 10
 - **Target column:** `Price`

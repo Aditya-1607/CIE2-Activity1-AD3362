@@ -245,3 +245,9 @@ weights = pd.DataFrame(
 
 - [pandas](https://pandas.pydata.org/) — data loading and manipulation
 - [scikit-learn](https://scikit-learn.org/) — model training and evaluation
+
+---
+
+[Complexiota](https://github.com/complexiota)
+
+---
